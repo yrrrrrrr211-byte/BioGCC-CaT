@@ -1,0 +1,5 @@
+"label_subset","module","evidence","rho","p_value","p_adj"
+"COVID-19","COVID_cytokine_inflammation","covid_evidence",-0.0317635260274535,0.46769022546231,0.46769022546231
+"COVID-19","COVID_myeloid_migration","covid_evidence",-0.101309271244642,0.0202474636737568,0.0269966182316757
+"fluA","FluA_antigen_presentation","flua_evidence",0.15081781229595,7.82322330699206e-11,1.56464466139841e-10
+"fluA","FluA_antiviral_effector","flua_evidence",0.152084264054457,5.40908655862268e-11,1.56464466139841e-10

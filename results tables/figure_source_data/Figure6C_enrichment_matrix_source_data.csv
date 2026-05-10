@@ -1,0 +1,97 @@
+"Description","display","GeneRatio_num","neglog10_padj","Count"
+"response to peptide","G5c_naive
+(FluA)",0.281818181818182,4.71479262465286,31
+"response to cytokine","G5c_naive
+(FluA)",0.272727272727273,4.71479262465286,30
+"response to type I interferon","G5c_naive
+(FluA)",0.1,4.71479262465286,11
+"cytokine-mediated signaling pathway","G5c_naive
+(FluA)",0.190909090909091,4.60755087414063,21
+"type I interferon-mediated signaling pathway","G5c_naive
+(FluA)",0.0909090909090909,4.15750417316935,10
+"cellular response to type I interferon","G5c_naive
+(FluA)",0.0909090909090909,4.13987300405392,10
+"keratinization","G5c_naive
+(FluA)",NA,NA,NA
+"keratinocyte differentiation","G5c_naive
+(FluA)",NA,NA,NA
+"epidermal cell differentiation","G5c_naive
+(FluA)",NA,NA,NA
+"antimicrobial humoral response","G5c_naive
+(FluA)",NA,NA,NA
+"antimicrobial humoral immune response mediated by antimicrobial peptide","G5c_naive
+(FluA)",NA,NA,NA
+"epidermis development","G5c_naive
+(FluA)",NA,NA,NA
+"response to peptide","unk_epi
+(FluA)",NA,NA,NA
+"response to cytokine","unk_epi
+(FluA)",NA,NA,NA
+"response to type I interferon","unk_epi
+(FluA)",NA,NA,NA
+"cytokine-mediated signaling pathway","unk_epi
+(FluA)",NA,NA,NA
+"type I interferon-mediated signaling pathway","unk_epi
+(FluA)",NA,NA,NA
+"cellular response to type I interferon","unk_epi
+(FluA)",NA,NA,NA
+"keratinization","unk_epi
+(FluA)",0.0689655172413793,3.8266701988869,8
+"keratinocyte differentiation","unk_epi
+(FluA)",0.0948275862068965,2.52228070564114,11
+"epidermal cell differentiation","unk_epi
+(FluA)",0.103448275862069,2.28386736589856,12
+"antimicrobial humoral response","unk_epi
+(FluA)",0.0603448275862069,1.89684769396779,7
+"antimicrobial humoral immune response mediated by antimicrobial peptide","unk_epi
+(FluA)",0.0517241379310345,1.89684769396779,6
+"epidermis development","unk_epi
+(FluA)",0.112068965517241,1.86818139900189,13
+"response to peptide","hillock
+(COVID-19)",NA,NA,NA
+"response to cytokine","hillock
+(COVID-19)",NA,NA,NA
+"response to type I interferon","hillock
+(COVID-19)",NA,NA,NA
+"cytokine-mediated signaling pathway","hillock
+(COVID-19)",NA,NA,NA
+"type I interferon-mediated signaling pathway","hillock
+(COVID-19)",NA,NA,NA
+"cellular response to type I interferon","hillock
+(COVID-19)",NA,NA,NA
+"keratinization","hillock
+(COVID-19)",NA,NA,NA
+"keratinocyte differentiation","hillock
+(COVID-19)",NA,NA,NA
+"epidermal cell differentiation","hillock
+(COVID-19)",NA,NA,NA
+"antimicrobial humoral response","hillock
+(COVID-19)",NA,NA,NA
+"antimicrobial humoral immune response mediated by antimicrobial peptide","hillock
+(COVID-19)",NA,NA,NA
+"epidermis development","hillock
+(COVID-19)",NA,NA,NA
+"response to peptide","ABC
+(COVID-19)",NA,NA,NA
+"response to cytokine","ABC
+(COVID-19)",NA,NA,NA
+"response to type I interferon","ABC
+(COVID-19)",NA,NA,NA
+"cytokine-mediated signaling pathway","ABC
+(COVID-19)",NA,NA,NA
+"type I interferon-mediated signaling pathway","ABC
+(COVID-19)",NA,NA,NA
+"cellular response to type I interferon","ABC
+(COVID-19)",NA,NA,NA
+"keratinization","ABC
+(COVID-19)",NA,NA,NA
+"keratinocyte differentiation","ABC
+(COVID-19)",NA,NA,NA
+"epidermal cell differentiation","ABC
+(COVID-19)",NA,NA,NA
+"antimicrobial humoral response","ABC
+(COVID-19)",NA,NA,NA
+"antimicrobial humoral immune response mediated by antimicrobial peptide","ABC
+(COVID-19)",NA,NA,NA
+"epidermis development","ABC
+(COVID-19)",NA,NA,NA

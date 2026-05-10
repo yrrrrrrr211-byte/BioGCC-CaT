@@ -1,0 +1,7 @@
+﻿"Metric","Value"
+"Accuracy","0.944596"
+"Balanced Accuracy","0.920086"
+"Macro F1","0.927331"
+"Weighted F1","0.944327"
+"Macro AUROC","0.988570656443012"
+"Macro AUPRC","0.972536053281628"
