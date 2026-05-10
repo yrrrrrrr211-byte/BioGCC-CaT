@@ -18,7 +18,7 @@ Raw and processed expression matrices are not included in this repository due to
 - `train code/cap.py`, `train code/gcn.py`, `train code/trans.py`: Model architecture modules
 - `train code/losses.py`: Loss functions (contrastive loss, cross-entropy)
 - `train code/tgr_caps.py`: Task-guided dynamic routing implementation
-- `pocessing code/datapocessing.py`: Data preprocessing and feature construction
+- `processing code/data_processing.py`: Data preprocessing and feature construction
 - `compute_subtype_attr_gxi.py`: Gene-level attribution analysis
 - `run_holdout_gene_attribution.py`: Held-out test set analysis
 - `requirements.txt`: Python dependencies
@@ -40,7 +40,7 @@ Python 3.8+ required.
 3. Run preprocessing:
 
 ```bash
-python "pocessing code/datapocessing.py"
+python "processing code/data_processing.py"
 ```
 
 This will generate preprocessed data in `./data/`
@@ -81,7 +81,7 @@ This generates:
 On independent held-out test set:
 
 | Metric | M5 (Full Model) |
-|--------|-----------------|
+|---|---:|
 | Accuracy | 0.9446 |
 | Balanced Accuracy | 0.9201 |
 | Macro F1 | 0.9273 |
@@ -95,7 +95,7 @@ Per-class F1 scores:
 ## Ablation Results
 
 | Model | Description | ACC | BACC | F1-macro |
-|-------|-------------|-----|------|----------|
+|---|---|---:|---:|---:|
 | M0 | scCaT baseline | 0.9152 | 0.9091 | 0.8938 |
 | M1 | +GCN | 0.9268 | 0.9000 | 0.9024 |
 | M2 | +TGR | 0.9213 | 0.9185 | 0.9012 |
@@ -128,4 +128,4 @@ MIT License
 
 ---
 
-**Note**: This repository contains source code and scripts for reproducibility. Detailed biological interpretation analysis and figure generation code are available in the supplementary materials of the published manuscript.
+**Note**: This repository contains source code and scripts for reproducibility. Additional interpretation scripts and figure generation details are provided in the supplementary materials.

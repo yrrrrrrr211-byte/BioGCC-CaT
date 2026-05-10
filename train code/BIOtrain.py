@@ -41,7 +41,7 @@ LAMBDA_SUPCON  = 0.5
 SUPCON_TEMP    = 0.07
 
 # Default data directory (can be overridden by command line argument)
-# Users should download data from GEO GSE176269 and preprocess using datapocessing.py
+# Users should download data from GEO GSE176269 and preprocess using data_processing.py
 DEFAULT_DATA_DIR = "./data"
 
 # M0 = 现在能跑的纯 scCaT baseline
