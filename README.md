@@ -76,6 +76,12 @@ This generates:
 - Top positive/negative contributor genes
 - Output saved to `./output/`
 
+## Figure generation and result tables
+
+The `figure code/` directory contains scripts used to generate the main and supplementary figures.
+The `results tables/` directory contains summarized performance metrics, ablation results, attribution results, enrichment analyses, and pathway-level correlation results used in the manuscript.
+The `example data structure/` directory documents the expected raw and processed data layout without including large expression matrices.
+
 ## Performance
 
 On independent held-out test set:
